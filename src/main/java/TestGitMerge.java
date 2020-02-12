@@ -1,3 +1,5 @@
+import javax.xml.bind.SchemaOutputResolver;
+
 /**
  * @author 张业荣
  * @Description
@@ -8,8 +10,8 @@ public class TestGitMerge
 
 	public static void main(String[] args)
 	{
-		
-
+		System.out.println(123);
+		System.out.println(321);
 	}
 
 }
