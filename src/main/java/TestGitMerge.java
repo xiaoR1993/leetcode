@@ -11,6 +11,7 @@ public class TestGitMerge
 	public static void main(String[] args)
 	{
 		System.out.println(123);
+		System.out.println(999);
 		System.out.println(321);
 	}
 
