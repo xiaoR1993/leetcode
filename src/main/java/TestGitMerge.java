@@ -12,7 +12,7 @@ public class TestGitMerge
 
 	public static void main(String[] args)
 	{
-		List<Integer> list1 = Arrays.asList(123);
+		List<String> list1 = Arrays.asList("123");
 		List<Integer> list2 = Arrays.asList(321);
 	}
 
