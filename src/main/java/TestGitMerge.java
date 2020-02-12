@@ -1,4 +1,6 @@
 import javax.xml.bind.SchemaOutputResolver;
+import java.util.Arrays;
+import java.util.List;
 
 /**
  * @author 张业荣
@@ -10,9 +12,8 @@ public class TestGitMerge
 
 	public static void main(String[] args)
 	{
-		System.out.println(123);
-		System.out.println(999);
-		System.out.println(321);
+		List<Integer> list1 = Arrays.asList(123);
+		List<Integer> list2 = Arrays.asList(321);
 	}
 
 }
